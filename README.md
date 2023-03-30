@@ -12,6 +12,8 @@ Power BI was then used for the visualization.
 Covid 19 Data Cleaning and Exploration 
 */
 
+![covid proj power bi](https://user-images.githubusercontent.com/114151260/228989251-97075162-033a-4417-b0eb-5a319f18e5aa.png)
+
 ![Power BI dashboard screenshot](![covid proj power bi](https://user-images.githubusercontent.com/114151260/228989037-26110603-019b-4344-90a0-ce9dea42ace8.png).png)
 
 select *
